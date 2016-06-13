@@ -5,6 +5,6 @@ description: Write an awesome description for your new site here
 baseurl: /blog
 url: ''
 permalink: '/:year/:month/:day/:title/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
+twitter_username: csdww
+github_username: yeket
 markdown: kramdown
