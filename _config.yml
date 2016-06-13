@@ -1,7 +1,7 @@
 # Created by Jekyll Writer
 title: Finale
 email: tao@yeket.com
-description: Write an awesome description for your new site here
+description: me
 baseurl: /blog
 url: ''
 permalink: '/:year/:month/:day/:title/'
